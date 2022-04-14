@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index</title>
+    <style>
+        body {
+            background-image: url("https://getwallpapers.com/wallpaper/full/3/4/5/765270-widescreen-technology-background-images-1920x1080-pc.jpg");
+        }
+        h1{
+            color: aquamarine;
+        }
+        h3{
+            color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <h1><center>Welcome , dear student</center></h1>
+  <iframe id="chat" style="width: 1000px; height: 500px;" src='https://webchat.botframework.com/embed/chitchatwithsaif-bot?s=eHeGg3AE-lE.2kqxfwRvYL9EkBYWOdP-UrZWsiutXXrBe_rLHCRUvtc'></iframe>
+  <ul type="square">
+  <h3><li>It's an AI (Artificial Intelligence) based chatbot, Which is designed to help you for placements.</li> </h3>
+  <h3><li>you may ask questions , like - "can you help me for placements prepration ?"</li></h3>
+  <h3><li>You may also ask some funny questions, which comes in your mind.</li></h3>
+  <h3><li>If you are facing problem , don't forget to open it on your desktop.</li></h3>
+</ul>
+</body>
+<script>
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', "https://webchat.botframework.com/api/tokens", true);
+    xhr.setRequestHeader('eHeGg3AE-lE.2kqxfwRvYL9EkBYWOdP-UrZWsiutXXrBe_rLHCRUvtc', 'BotConnector ' + 'eHeGg3AE-lE.2kqxfwRvYL9EkBYWOdP-UrZWsiutXXrBe_rLHCRUvtc');
+    xhr.send();
+    xhr.onreadystatechange = processRequest;
+
+    function processRequest(e) {
+      if (xhr.readyState == 4  && xhr.status == 200) {
+        var response = JSON.parse(xhr.responseText);
+        document.getElementById("chat").src="https://webchat.botframework.com/embed/<botname>?t="+response
+      }
+    }
+
+  </script>
+</html>
