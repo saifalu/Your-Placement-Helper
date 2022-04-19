@@ -1,8 +1,8 @@
-**TABLE OF CONTENT** - *Title \ 
-                       *Description \
-                       *services used from azure \
-                       *how services are used ? \
-                       *Url of the project to visit \
+**TABLE OF CONTENT** - *Title\ 
+                       *Description\
+                       *services used from azure\
+                       *how services are used ?\
+                       *Url of the project to visit\
 
 **Title - Your Placement Helper**
 
@@ -14,7 +14,7 @@
                  **this project is designed by using of some of the services provided by microsoft azure.**
             
  **SERVICES USED FROM MICROSOFT AZURE**
-                                     This project has used three services from microsoft azure
+                                     This project has used three services from microsoft azure\
            **1 - QNA MAKER SERVICE**
               ![QNA MAKER SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163940699-0ec2ebdf-20e9-4dfb-942b-fde6549be4b4.png)
            **2 - AZURE BOT SERVICE**
