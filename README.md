@@ -1,8 +1,8 @@
-**TABLE OF CONTENT** - *Title
-                       *Description
-                       *services used from azure
-                       *how services are used ?
-                       *Url of the project to visit
+**TABLE OF CONTENT** - *Title \ 
+                       *Description \
+                       *services used from azure \
+                       *how services are used ? \
+                       *Url of the project to visit \
 
 **Title - Your Placement Helper**
 
@@ -30,4 +30,7 @@
      And now it is ready to be visited on internet.
      
          the url of the project to visit - https://ashy-rock-0d5cd2100.1.azurestaticapps.net/
+         this is how the project looks like
+          ![final project](https://user-images.githubusercontent.com/92035012/163943223-e762dac9-e75e-475f-bf84-4a623c5462c7.png)
+
      
