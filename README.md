@@ -12,9 +12,9 @@
 **Description** - 
                   This is basically a website , which contains a chatbot.This chatbot can answer general queries of students regarding placements.In this way , this website can be used to help the students.
                   here are some of the demo questions that can be asked to this chatbot through this website -
-                  *"is writing clean code important for placement ?* 
-                  *"tell me about the sources to prepare for the placemens ?"*
-                 **this project is designed by using of some of the services provided by microsoft azure.**
+               <br>   *"is writing clean code important for placement ?* 
+               <br>   *"tell me about the sources to prepare for the placemens ?"*
+                <br> **this project is designed by using of some of the services provided by microsoft azure.**
             
  **SERVICES USED FROM MICROSOFT AZURE**
                                     -  This project has used three services from microsoft azure\
