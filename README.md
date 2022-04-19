@@ -24,7 +24,7 @@
              ![AZURE BOT SERVICE screenshot](https://user-images.githubusercontent.com/92035012/163941147-e065dc1a-892a-40f7-a00e-403d0914686c.png)
        <br><br>    **3 - STATIC WEB APP SERVICE**
              ![STATIC WEB APP service](https://user-images.githubusercontent.com/92035012/163941824-b892a3ed-df7e-43df-afe5-05400b594b98.png)
-     **How services are used ?**
+    <br><br> **How services are used ?**
      - With the help of qna maker service a knowledgebase has been created. affter that azure bot service has been used to create a chatbot and this chatbot is linked
      with the knowledgebase.After that with help of visual studio code, I have designed a website, which is designed by html , css and javascript.now the file of website 
      is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
