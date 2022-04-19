@@ -4,7 +4,8 @@
                         *services used from azure\
                         *how services are used ?\
                         *GitHub repository Url<br>
-                       *Url of the project to visit
+                       *Url of the project to visit<br>
+                       *Url of video demonstrating project
 
 **Title - Your Placement Helper**
 
@@ -28,10 +29,11 @@
      with the knowledgebase.After that with help of visual studio code, I have designed a website, which is designed by html , css and javascript.now the file of website 
      is pushed into my github repository.and after that with the help of azure static web app service I have successsfully hosted my website by using of github.
      And now it is ready to be visited on internet.
-   <br><br>  **GitHub repository -**
+   <br><br>  **GitHub repository Url-** (https://github.com/saifalu/Your-Placement-Helper)
      ![github repository screenshot](https://user-images.githubusercontent.com/92035012/163946536-d6dfed19-ea4f-4953-998e-0e26763e1e13.png)
 
-   <br><br>**the url of the project to visit** - https://ashy-rock-0d5cd2100.1.azurestaticapps.net/
+   <br><br>**the url of the project to visit** - (https://ashy-rock-0d5cd2100.1.azurestaticapps.net/)
     <br><br> **this is how the project looks like**
           ![final project](https://user-images.githubusercontent.com/92035012/163943223-e762dac9-e75e-475f-bf84-4a623c5462c7.png)
-     
+          <br><br>
+          **Url of video demonstrating project -** (https://youtu.be/XpuVZrfRxig)     
